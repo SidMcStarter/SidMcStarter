@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and data science 
 - 🌱 I’m currently an undergraduate student 
 - 💞️ I’m looking to collaborate on anything I can
-- 📫 Contact me at dsiddharthwork@gmail.com
+- 📫 Contact me at dsiddharth2004@gmail.com
 
 <!---
 SidMcStarter/SidMcStarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
